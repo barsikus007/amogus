@@ -1,4 +1,8 @@
 venv/
+.mypy_cache/
+Logs/
+**/TextMesh\ Pro/Documentation*
+**/TextMesh\ Pro/Examples\ &\ Extras*
 
 ###
 # Unity folders and files

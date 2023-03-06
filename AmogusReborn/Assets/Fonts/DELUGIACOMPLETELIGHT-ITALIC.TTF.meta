@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 339dbfbda12f6b44cbb29f08a40068d6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Delugia
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 82f43ab7d837c6b47a73f4ba5a257479, type: 3}
+  - {fileID: 12800000, guid: b0752ab229739d24096d29f104b99b50, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
